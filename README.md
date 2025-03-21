@@ -11,7 +11,7 @@ This is a simple ARP spoofer to execute mitm attacks on a local network. Make su
 
 # How to use
 
-Start the mitm.py (`sudo python3 mitm.py`) and follow the instructions
+Start the mitm.py (`sudo python3 mitm.py`) and follow the instructions. To check if it's correctly working, you can sniff traffic with wireshark or do `arp -a` on your device.
 
 # Disclaimer
 
